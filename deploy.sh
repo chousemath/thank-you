@@ -24,7 +24,5 @@ git push
 echo -e "${GREEN}git push completed${NC}"
 echo -e "${LIGHTCYAN}............${NC}"
 echo -e "${GREEN}git push heroku was started${NC}"
-git push heroku
-echo -e "${GREEN}git push heroku was completed${NC}"
 echo -e "${LIGHTCYAN}............${NC}"
 echo -e "${GREEN}deployment complete!${NC}"
